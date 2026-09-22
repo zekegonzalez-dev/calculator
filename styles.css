@@ -32,6 +32,7 @@ body * {
 
 .display{
     position: relative;
+    height: 100px;
     display: flex;
     justify-content: flex-end;
     white-space: nowrap;
